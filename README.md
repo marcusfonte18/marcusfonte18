@@ -30,8 +30,4 @@
 ## 🌐 Connect with me:
 [![LinkedIn Badge](https://img.shields.io/badge/-Marcus_Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-fonte/)](https://www.linkedin.com/in/marcus-fonte/)
 
-<!-- 
-## 🤝 Support:
-<p><a href="https://www.buymeacoffee.com/tiagomotta7"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tiagomotta7" /></a>
-</p>
- -->
+
