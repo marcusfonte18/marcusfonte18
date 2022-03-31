@@ -4,7 +4,6 @@
 
 
 - Here you will find some projects, exercises and tutorials. 
-- 🌱 I’m currently learning the technologies below.
 
 ## 👨‍💻 Technologies:
 <p align="left">
